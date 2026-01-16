@@ -7,7 +7,8 @@ Soy estudiante de **Ingeniería de Software** en la **Escuela Politécnica Nacio
 ## 🛠️ Tech Stack
 
 ### 🔹 Lenguajes (automático desde GitHub)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaphomeT-T&layout=compact&langs_count=8)
+![Top Langs](https://stats-github.vercel.app/api/top-langs/?username=BaphomeT-T&layout=compact&langs_count=8)
+
 
 ### 🔹 Tecnologías y Herramientas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
