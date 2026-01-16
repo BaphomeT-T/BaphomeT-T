@@ -1,6 +1,6 @@
-# 👋 Hola, soy Paul Davila
+# Hola, soy Paul Davila
 
-Soy estudiante de **Ingeniería de Software** en la **Escuela Politécnica Nacional**, con interés en desarrollo de software, bases de datos y análisis de datos. Me motiva construir soluciones tecnológicas claras, seguras y bien estructuradas.
+Soy estudiante de **Ingeniería de Software** en la **Escuela Politécnica Nacional**, con interés en desarrollo de software, bases de datos, análisis de datos y desarrollo móvil. Me motiva construir soluciones tecnológicas claras, seguras y bien estructuradas.
 
 ---
 
@@ -14,7 +14,10 @@ Soy estudiante de **Ingeniería de Software** en la **Escuela Politécnica Nacio
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
