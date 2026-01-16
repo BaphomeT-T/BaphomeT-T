@@ -1,6 +1,6 @@
 # Hola, soy Paul Davila
 
-Soy estudiante de **Ingeniería de Software** en la **Escuela Politécnica Nacional**, con interés en desarrollo de software, bases de datos, análisis de datos y desarrollo móvil. Me motiva construir soluciones tecnológicas claras, seguras y bien estructuradas.
+Soy estudiante de **Ingeniería de Software** en la **Escuela Politécnica Nacional**, con interés en desarrollo de software, bases de datos, análisis de datos, ciberseguridad y desarrollo móvil. Me motiva construir soluciones tecnológicas claras, seguras y bien estructuradas.
 
 ---
 
