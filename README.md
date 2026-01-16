@@ -6,10 +6,6 @@ Soy estudiante de **Ingeniería de Software** en la **Escuela Politécnica Nacio
 
 ## 🛠️ Tech Stack
 
-### 🔹 Lenguajes (automático desde GitHub)
-![Top Langs](https://stats-github.vercel.app/api/top-langs/?username=BaphomeT-T&layout=compact&langs_count=8)
-
-
 ### 🔹 Tecnologías y Herramientas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -30,10 +26,6 @@ Soy estudiante de **Ingeniería de Software** en la **Escuela Politécnica Nacio
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaphomeT-T&show_icons=true&count_private=true)
 
 ---
 
